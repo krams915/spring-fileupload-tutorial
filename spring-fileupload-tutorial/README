@@ -1,0 +1,18 @@
+Description
+===========
+Sample application demonstrating how to integrate Spring 3.1 and blueimp's jQuery-File-Upload plugin
+
+To read the whole guide, please see the original blog:
+
+"File Upload with Spring and jQuery"
+http://krams915.blogspot.com/2012/06/file-upload-with-spring-and-jquery-part_2793.html
+
+
+Building
+========
+Please visit http://krams915.blogspot.com/2012/06/file-upload-with-spring-and-jquery-part.html for full instructions
+
+
+Notes
+=====
+For more tutorials, please visit http://krams915.blogspot.com/
